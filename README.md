@@ -1,5 +1,4 @@
 # SP-500-ETF-200MA-Trading-Strategy
-
 #### 作者: Eric Hsu         
 #### Date: 2023/05/14
 
